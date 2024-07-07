@@ -1,0 +1,144 @@
+{
+  "joueurs": [
+    {
+      "url": "/img/mbappe.png",
+      "nom": "Mbappé",
+      "prenom": "Kylian",
+      "club": "Paris Saint-Germain",
+      "poste": "Attaquant"
+    },
+    {
+      "url": "/img/messi.png",
+      "nom": "Messi",
+      "prenom": "Lionel",
+      "club": "Inter Miami",
+      "poste": "Attaquant"
+    },
+    {
+      "url": "/img/ronaldo.png",
+      "nom": "Ronaldo",
+      "prenom": "Cristiano",
+      "club": "Al-Nassr",
+      "poste": "Attaquant"
+    },
+    {
+      "url": "",
+      "nom": "De Bruyne",
+      "prenom": "Kevin",
+      "club": "Manchester City",
+      "poste": "Milieu"
+    },
+    {
+      "url": "",
+      "nom": "Haaland",
+      "prenom": "Erling",
+      "club": "Manchester City",
+      "poste": "Attaquant"
+    },
+    {
+      "url": "/img/neymar.png",
+      "nom": "Neymar",
+      "prenom": "Junior",
+      "club": "Al-Hilal",
+      "poste": "Attaquant"
+    },
+    {
+      "url": "/img/salah.png",
+      "nom": "Salah",
+      "prenom": "Mohamed",
+      "club": "Liverpool",
+      "poste": "Attaquant"
+    },
+    {
+      "url": "",
+      "nom": "van Dijk",
+      "prenom": "Virgil",
+      "club": "Liverpool",
+      "poste": "Défenseur"
+    },
+    {
+      "url": "",
+      "nom": "Lewandowski",
+      "prenom": "Robert",
+      "club": "FC Barcelone",
+      "poste": "Attaquant"
+    },
+    {
+      "url": "",
+      "nom": "Benzema",
+      "prenom": "Karim",
+      "club": "Al-Ittihad",
+      "poste": "Attaquant"
+    },
+    {
+      "url": "",
+      "nom": "Courtois",
+      "prenom": "Thibaut",
+      "club": "Real Madrid",
+      "poste": "Gardien"
+    },
+    {
+      "url": "",
+      "nom": "Kane",
+      "prenom": "Harry",
+      "club": "Bayern Munich",
+      "poste": "Attaquant"
+    },
+    {
+      "url": "",
+      "nom": "Kimmich",
+      "prenom": "Joshua",
+      "club": "Bayern Munich",
+      "poste": "Milieu"
+    },
+    {
+      "url": "/img/griezmann.png",
+      "nom": "Griezmann",
+      "prenom": "Antoine",
+      "club": "Atlético Madrid",
+      "poste": "Attaquant"
+    },
+    {
+      "url": "",
+      "nom": "Fernandes",
+      "prenom": "Bruno",
+      "club": "Manchester United",
+      "poste": "Milieu"
+    },
+    {
+      "url": "",
+      "nom": "Pedri",
+      "prenom": "González",
+      "club": "FC Barcelone",
+      "poste": "Milieu"
+    },
+    {
+      "url": "",
+      "nom": "Rüdiger",
+      "prenom": "Antonio",
+      "club": "Real Madrid",
+      "poste": "Défenseur"
+    },
+    {
+      "url": "",
+      "nom": "Donnarumma",
+      "prenom": "Gianluigi",
+      "club": "Paris Saint-Germain",
+      "poste": "Gardien"
+    },
+    {
+      "url": "",
+      "nom": "Ramos",
+      "prenom": "Sergio",
+      "club": "Sevilla FC",
+      "poste": "Défenseur"
+    },
+    {
+      "url": "",
+      "nom": "Modric",
+      "prenom": "Luka",
+      "club": "Real Madrid",
+      "poste": "Milieu"
+    }
+  ]
+}
